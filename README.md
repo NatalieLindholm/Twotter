@@ -4,9 +4,11 @@
 - [x] Create a new project
 - [x] Add Tailwind CSS
 - [x] Design the UI
-- [ ] Add Firebase
-- [ ] Add authentication
+- [x] Create feed
+- [x] Create Supabase project
+- [ ] Add Supabase SDK (Software Development Kit)
 - [ ] Add database
+- [ ] Add authentication
 - [ ] Add sign up
 - [ ] Add sign in
 - [ ] Add sign out
@@ -24,7 +26,7 @@
 - [ ] Darkmode
 
 ## Description
-Vite + Tailwind CSS + Firebase
+Vite + Tailwind CSS + Supabase
 
 ## Project Setup
 
