@@ -2,8 +2,8 @@
 
 ## ToDo
 - [x] Create a new project
-- [ ] Add Tailwind CSS
-- [ ] Design the UI
+- [x] Add Tailwind CSS
+- [x] Design the UI
 - [ ] Add Firebase
 - [ ] Add authentication
 - [ ] Add database
