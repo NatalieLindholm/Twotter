@@ -13,9 +13,8 @@
 - [x] Add sign in
 - [x] Add sign out
 - [x] Update feed
-- [ ] Create tweet
+- [x] Create tweet
 - [ ] Delete own tweet
-- [ ] Like / Unlike tweet
 
 ## Extra
 - [ ] Comments
@@ -24,6 +23,7 @@
 - [ ] Retweet
 - [ ] Darkmode
 - [ ] Support images
+- [ ] Like / Unlike tweet
 
 ## Description
 Vite + Tailwind CSS + Supabase
