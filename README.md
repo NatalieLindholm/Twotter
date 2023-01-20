@@ -6,17 +6,16 @@
 - [x] Design the UI
 - [x] Create feed
 - [x] Create Supabase project
-- [ ] Add Supabase SDK (Software Development Kit)
-- [ ] Add database
-- [ ] Add authentication
-- [ ] Add sign up
-- [ ] Add sign in
-- [ ] Add sign out
+- [x] Add Supabase SDK (Software Development Kit)
+- [x] Add database
+- [x] Add authentication
+- [x] Add sign up
+- [x] Add sign in
+- [x] Add sign out
+- [x] Update feed
 - [ ] Create tweet
 - [ ] Delete own tweet
 - [ ] Like / Unlike tweet
-- [ ] Support images
-
 
 ## Extra
 - [ ] Comments
@@ -24,6 +23,7 @@
 - [ ] Pagination / Infinite scroll
 - [ ] Retweet
 - [ ] Darkmode
+- [ ] Support images
 
 ## Description
 Vite + Tailwind CSS + Supabase
